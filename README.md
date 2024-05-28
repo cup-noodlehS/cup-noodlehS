@@ -8,10 +8,13 @@ class AboutMe:
     self.role = "Fullstack Developer"
     self.skill_goal = "Expert Backend Developer"
     self.currently_doing = "Working as a Fullstack developer & planning to create a startup"
-    self.work_experience = datetime.datetime.now() - datetime.datetime(2023, 8, 1)
     self.portfolio = "https://sheldonsagrado.vercel.app"
 
-  def ps(self):
+  @property
+  def work_experience(self):
+    return datetime.datetime.now() - datetime.datetime(2023, 8, 1)
+
+  def __str__(self):
     return "I'm looking for other remote job opportunities. Pleaze uwu TT"
 ```
 
