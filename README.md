@@ -15,7 +15,7 @@ class AboutMe:
     return datetime.datetime.now() - datetime.datetime(2023, 8, 1)
 
   def __str__(self):
-    return "I'm looking for other remote job opportunities. Pleaze uwu TT"
+    return "I'm looking for remote job opportunities. Pleaze uwu TT"
 ```
 
 <div align="left">
