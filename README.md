@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sheldon Arthur</h1>
-<h3 align="center">A Full-stack Developer</h3>
 
-> 🔭 I’m currently working on **A website for artists to showcase their artwork and sell/put their artworks on auction**
+``` python
+import datetime
 
-> 👯 I’m looking to collaborate on **UI/UX Designers for the website**
+class AboutMe:
+  def __init__(self):
+    self.name = "Sheldon Arthur"
+    self.role = "Fullstack Developer"
+    self.skill_goal = "Expert Backend Developer"
+    self.currently_doing = "Working as a Fullstack developer & planning to create a startup"
+    self.work_experience = datetime.datetime.now() - datetime.datetime(2023, 8, 1)
+    self.portfolio = "https://sheldonsagrado.vercel.app"
+
+  def ps(self):
+    return "I'm looking for other remote job opportunities. Pleaze uwu TT"
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cup-noodlehs&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
