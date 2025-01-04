@@ -7,15 +7,13 @@ class AboutMe:
     self.name = "Sheldon Arthur"
     self.role = "Fullstack Developer"
     self.career_goal = "Create startups"
-    self.currently_doing = "Working as a software engineer for two startup companies"
+    self.currently_doing = "Working as a software engineer for two startup companies, with a lead role in one"
     self.portfolio = "https://sheldonsagrado.vercel.app"
 
   @property
   def work_experience(self):
     return datetime.datetime.now() - datetime.datetime(2023, 8, 1)
 
-  def __str__(self):
-    return "I'm looking for remote job opportunities. Pleaze uwu TT"
 ```
 
 <div align="center">
