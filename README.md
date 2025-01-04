@@ -6,7 +6,7 @@ class AboutMe:
   def __init__(self):
     self.name = "Sheldon Arthur"
     self.role = "Fullstack Developer"
-    self.career_goal = "Create startups"
+    self.career_goal = "Innovate"
     self.currently_doing = "Working as a software engineer for two startup companies, with a lead role in one"
     self.portfolio = "https://sheldonsagrado.vercel.app"
 
