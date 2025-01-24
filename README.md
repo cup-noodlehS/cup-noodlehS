@@ -70,3 +70,8 @@ class AboutMe:
 <a href="https://linkedin.com/in/sheldon arthur sagrado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheldon arthur sagrado" height="30" width="40" /></a>
 </p>
 
+
+
+https://github.com/user-attachments/assets/7d4b7538-86ae-4149-b957-41fb4b2c4876
+
+
