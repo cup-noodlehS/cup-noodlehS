@@ -17,7 +17,6 @@ class AboutMe:
 ```
 
 <div align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=cup-noodlehs&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cup-noodlehs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
