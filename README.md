@@ -7,7 +7,7 @@ class AboutMe:
     self.name = "Sheldon Arthur"
     self.role = "Fullstack Developer"
     self.career_goal = "Innovate"
-    self.currently_doing = "Working as a software engineer for two startup companies, with a lead role in one"
+    self.currently_doing = "Working as a software engineer:)"
     self.portfolio = "https://sheldonsagrado.vercel.app"
 
   @property
